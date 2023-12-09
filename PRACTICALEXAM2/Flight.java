@@ -4,7 +4,7 @@ public class Flight {
     private int number;
     private String destination;
 
-    // Default constructor
+    
     public Flight() {
         this.number = 0;
         this.destination = "";
